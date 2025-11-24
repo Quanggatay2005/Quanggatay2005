@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Quanggatay2005/Quanggatay2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 👋 Hello, I am **Minh Quang**
+
+🎓 **HCMUT student**  
+💻 **Major:** Computer Science (Artificial Intelligence)
+
+### 🧑‍💻 Programming Languages
+- C++
+- Python
+- Java
+
+### 🎯 Goals
+- AI Engineer  
+- Data Scientist
+
+### 📬 Contact  
+- 🌐 **Facebook:**  
+- 💼 **LinkedIn:**  
