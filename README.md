@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 ### 🧑‍💻 Programming Languages
 - C++
 - Python
-- Java
 
 ### 🎯 Goals
 - AI Engineer  
