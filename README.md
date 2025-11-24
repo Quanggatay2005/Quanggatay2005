@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 - Data Scientist
 
 ### 📬 Contact  
-- 🌐 **Facebook:**  
+- 🌐 **Facebook:** https://www.facebook.com/angminhquang.247510/ 
 - 💼 **LinkedIn:**  
