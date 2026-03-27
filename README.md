@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 ### 📬 Contact  
 - 🌐 **Facebook:** https://www.facebook.com/angminhquang.247510/ 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/minh-quang-88a55535b/
--     **Facebook:** 
+-    **Gmail:** mquang1305@gmail.com
